@@ -22,5 +22,6 @@ Greed-driven trades should largely be avoided due to consistently poor performan
 Neutral conditions offer moderate opportunities but may not justify aggressive strategies.
 Execution decisions are more critical than sentiment alone. Optimal strategies should combine sentiment indicators with execution signals such as trade side and closing behavior.
 
-Final Takeaway
+**Final Takeaway**
+
 Market sentiment influences overall profitability trends, but individual trade outcomes depend more on execution strategy. Fearful market environments provide the best conditions for consistent and risk-adjusted gains, while Greed environments often lead to poor performance. Integrating sentiment signals with machine learning models focused on execution variables offers the most promising approach for developing smarter, more resilient trading strategies.
