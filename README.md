@@ -16,6 +16,7 @@ Cumulative PnL analysis confirmed that Fear-driven trading compounded steadily o
 Machine learning models were applied to predict trade outcomes (Win vs. Loss). XGBoost delivered the strongest results (F1 = 98.7%), followed closely by Random Forest (F1 = 98.3%) and Logistic Regression (F1 = 94.9%). Feature importance analysis revealed that trade execution features (side, open/close long or short, execution price, and position size) were far more influential than the sentiment classifications themselves. While sentiment captures the broader environment, the mechanics of trade execution ultimately determine individual success.
 
 **Strategic Implications**
+
 Traders should allocate more capital and focus on opportunities during Fear markets, where performance is consistently strongest.
 Extreme Greed markets can be profitable but require cautious position sizing to manage volatility.
 Greed-driven trades should largely be avoided due to consistently poor performance.
